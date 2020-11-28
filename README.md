@@ -5,5 +5,5 @@ It is a terminal game with multiple levels that uses:<br/>
 - control flow<br/>
 
 <br/>
-# # # Plot
+### Plot
 You want to pee, but the cashier at the local Starbucs forgot the password to the restroom. Your task is to guess the pass. You win, if you pass all levels
