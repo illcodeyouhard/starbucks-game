@@ -1,7 +1,3 @@
-/*8usingRandFunction
-
-*/
-
 #include <iostream>
 #include <unistd.h>
 
@@ -14,11 +10,11 @@ void Lose();
 
 //void RandomNumbers(){}
 
-void Greetings(int Level){
-    int Fst = rand() % 7, Scnd = rand() % 7, Trd = rand() % 7;
-    int Product = Fst * Scnd * Trd;
-    int Sum = Fst + Scnd + Trd;
+int Fst = rand() % 7, Scnd = rand() % 7, Trd = rand() % 7;
+int Product = Fst * Scnd * Trd;
+int Sum = Fst + Scnd + Trd;
 
+void Greetings(int Level){
 
     std::cout << "- damn, I want to pee,\n";
     std::cout << "thought Andrew.";
