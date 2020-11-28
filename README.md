@@ -3,6 +3,7 @@
 It is a terminal game with multiple levels that uses:<br/>
 - rand() function<br/>
 - control flow<br/>
+- increasing level of difficulty system
 
 
 ### Plot
